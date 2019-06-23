@@ -1,0 +1,87 @@
+baseURL = "https://virtore.com/docs/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+title = "Virtore Commerce Documentation"
+theme = "hugo-theme-learn"
+# themesdir = "../.."
+# metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation for Virtore Commerce"
+  author = "Wallace Silva"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.pt]
+title = "Documentação para Virtore Commerce"
+weight = 1
+languageName = "Português"
+
+[[Languages.pt.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/virtore/docs"
+weight = 10
+
+[[Languages.pt.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.pt.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Créditos"
+url = "/creditos"
+weight = 30
+
+[[Languages.pt.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Apoaidores"
+url = "/apoaidores"
+weight = 31
+
+# translations to english
+
+[Languages.en]
+title = "Documentation for Virtore Commerce"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/virtore/docs"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Documentação do Hugo"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Supporters"
+url = "/supporters"
+weight = 31
