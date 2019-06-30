@@ -9,8 +9,8 @@ theme = "hugo-theme-learn"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Virtore Commerce"
+  editURL = "https://github.com/virtore/docs/edit/develop/content/"
+  description = "Documentation"
   author = "Wallace Silva"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -21,7 +21,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.pt]
-title = "Documentação para Virtore Commerce"
+title = "Documentação"
 weight = 1
 languageName = "Português"
 
