@@ -1,6 +1,6 @@
 baseURL = "https://virtore.com/docs/"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 
 title = "Virtore Commerce Documentation"
 theme = "hugo-theme-learn"
