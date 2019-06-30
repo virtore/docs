@@ -11,16 +11,5 @@
 	<atom:link href="https://virtore.com/docs/en/basics/configuration/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Configuration</title>
-      <link>https://virtore.com/docs/en/basics/configuration/_index.fr/</link>
-      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      
-      <guid>https://virtore.com/docs/en/basics/configuration/_index.fr/</guid>
-      <description>Paramètres globaux du site En plus de la configuration globale d&amp;rsquo;Hugo, Hugo-theme-learn vous permet de définir les paramètres suivant dans votre fichier config.toml (ci-dessous sont affichées les valeurs par défaut).
-Notez que certains de ces paramètres sont expliqués en détails dans d&amp;rsquo;autres sections de cette documentation.
-[params] # L&#39;URL préfixe pour éditer la page courante. Ce paramètre affichera un bouton &amp;quot;Modifier cette page&amp;quot; on haut de de chacune des pages.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -3,22 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://virtore.com/docs/pt/categories/</loc>
-    <priority>0</priority>
+    <loc>https://virtore.com/docs/pt/basics/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://virtore.com/docs/en/categories/"
+                href="https://virtore.com/docs/en/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://virtore.com/docs/pt/categories/"
+                href="https://virtore.com/docs/pt/basics/"
                 />
   </url>
   
   <url>
+    <loc>https://virtore.com/docs/pt/cont/pages/_index.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/basics/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/cont/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/cont/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/archetypes.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/basics/requirements/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/_index.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/shortcodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/markdown.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/basics/installation/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/basics/configuration/_index.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/infrastructure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/infrastructure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/infrastructure/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/basics/style-customization/_index.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/menushortcuts.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/i18n/_index.fr/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/cont/tags.fr/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://virtore.com/docs/pt/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +139,7 @@
   
   <url>
     <loc>https://virtore.com/docs/pt/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -45,6 +151,133 @@
                 hreflang="pt"
                 href="https://virtore.com/docs/pt/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/tags/documentation/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/tags/documentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/tags/documentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/tags/tutorial/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/tags/tutorial/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/attachments.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/button.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://virtore.com/docs/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://virtore.com/docs/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/credits.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/expand.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/mermaid.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/notice.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/siteparam.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/vitrine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-1/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-1/children-1-1/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-2/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-3/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-4/_index.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/test.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://virtore.com/docs/pt/shortcodes/children/children-2/test3.fr/</loc>
   </url>
   
 </urlset>
